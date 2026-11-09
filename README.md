@@ -1,16 +1,15 @@
 ## Hi there 👋
+## Olá, eu sou a Majeda 👋
 
-<!--
-**majedaart/majedaart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Iniciante na área de Tecnologia, em busca de novas oportunidades e conhecimento.
 
-Here are some ideas to get you started:
+## 🏅 Certificações
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **AI Agent Manager (AIAM™)**, CertiProf. Emitida em 07/11/2026, válida até 07/11/2027.
+
+
+## 💻 Projetos
+
+Veja meus repositórios fixados aqui no perfil: planilhas, dashboards e laboratórios.
+
+
